@@ -30,7 +30,7 @@
 /*------------------------------------------------------------------------------
  * CONSTANTES 
  ------------------------------------------------------------------------------*/
-#define _XTAL_FREQ 8000000
+#define _XTAL_FREQ 500000
 #define IN_MIN 0                // Valor minimo de entrada del potenciometro
 #define IN_MAX 255              // Valor máximo de entrada del potenciometro
 #define OUT_MIN 16               // Valor minimo de ancho de pulso de señal PWM
